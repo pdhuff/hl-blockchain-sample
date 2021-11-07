@@ -1,0 +1,16 @@
+{
+  "name": "cars-test",
+  "version": "1.0.0",
+  "description": "Testing hyperledger fabric smart contract",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Huff",
+  "license": "MIT",
+  "dependencies": {
+    "fabric-ca-client": "^2.2.10",
+    "fabric-network": "^2.2.10",
+    "js-yaml": "^4.1.0"
+  }
+}
